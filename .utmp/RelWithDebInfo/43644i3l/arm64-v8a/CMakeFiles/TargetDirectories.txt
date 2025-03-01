@@ -1,0 +1,5 @@
+/Users/jmagno/Unity Projects/first_AR/.utmp/RelWithDebInfo/43644i3l/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jmagno/Unity Projects/first_AR/.utmp/RelWithDebInfo/43644i3l/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jmagno/Unity Projects/first_AR/.utmp/RelWithDebInfo/43644i3l/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/jmagno/Unity Projects/first_AR/.utmp/RelWithDebInfo/43644i3l/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/jmagno/Unity Projects/first_AR/.utmp/RelWithDebInfo/43644i3l/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
